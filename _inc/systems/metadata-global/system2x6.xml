@@ -1,0 +1,15 @@
+<theme>
+   <variables>
+      <systemDescription>The Namco System 246 is a development of the Sony PlayStation 2 technology as a basis for an arcade system board. It was released in December 2000 on its first game Bloody Roar 3. Like the Sega NAOMI, it is widely licensed for use by other manufacturers. Later revisions System 256 and Super System 256 are all based on the initial System 246 hardware.</systemDescription>
+      <systemManufacturer>Namco</systemManufacturer>
+      <systemReleaseYear>2000</systemReleaseYear>
+      <systemReleaseDate>2000-12-01</systemReleaseDate>
+      <systemReleaseDateFormated>December 1, 2000</systemReleaseDateFormated>
+      <systemHardwareType>Arcade</systemHardwareType>
+      <systemColor>439AE9</systemColor>
+      <systemColorPalette1>034693</systemColorPalette1>
+      <systemColorPalette2>FFFFFF</systemColorPalette2>
+      <systemColorPalette3>000000</systemColorPalette3>
+      <systemColorPalette4>4C9EFB</systemColorPalette4>
+   </variables>
+</theme>
